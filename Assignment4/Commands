@@ -1,0 +1,5 @@
+At first, delete bgumart.db (if exists) then:
+python3 initiate.py config.txt
+python3 printdb.py
+python3 action.py action.txt
+python3 printdb.py
